@@ -125,3 +125,5 @@ Use a visible horizontal divider to separate it from the main response.
 <img width="843" height="777" alt="image" src="https://github.com/user-attachments/assets/c0273b92-2746-4109-a19a-7b46b7d8768e" />
 
 ## Note: These instructions as well as the online estimation tool are only intended to be used as an estimation and not actual billable credits. These instruction enhance the calculation process but in way are intended to be the actual billable credit consumption. ##
+
+This by no means is the only method to create the calculation, a Topic could also be created with the instrcutions within the Agent configuration however I find this simply method of appending the agent instructions a very eacy method.
