@@ -16,6 +16,12 @@ Insert the following instructions to append the existing agent instructions, rem
 
 The following estimation credit instructions will calculate the number of credits consumed for the user executing the agent (M365 Copilot or Copilot Chat user). It will also keep a running total of interacions per chat session to give a total figure.
 
+This method will require Anthropic as a Sub-processor to be enabled within your M365 tenant, otherwise the calcuations will not work correctly. The only model I have currently had any success with is:
+
+- Claude Opus 4.6
+
+All other models I have currently tested, do not calculate an accurate figure.
+
 ```After each response, run the following instructions and calculate the total for the number of credits consumed for a Copilot Chat user below the response from knowledge sources.
 
 ## AGENT ROLE 
