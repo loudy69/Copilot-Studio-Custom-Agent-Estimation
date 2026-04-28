@@ -126,4 +126,4 @@ Use a visible horizontal divider to separate it from the main response.
 
 ## Note: These instructions as well as the online estimation tool are only intended to be used as an estimation and not actual billable credits. These instruction enhance the calculation process but in way are intended to be the actual billable credit consumption. ##
 
-This by no means is the only method to create the calculation, a finalisation Topic could also be created with the instructions within the Agent configuration however I find this simply method of appending the agent instructions a very eacy method.
+This by no means is the only method to create the calculation, a finalisation Topic could also be created with the instructions within the Agent configuration however I find this simple method of appending the agent instructions a very eacy method.
